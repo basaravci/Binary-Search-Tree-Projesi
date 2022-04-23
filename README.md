@@ -14,3 +14,5 @@ Root 7 alınmıştır..
              1       6          9
           0     3
               2   4
+
+www.patika.dev
